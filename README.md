@@ -1,5 +1,5 @@
 # RandomDraft
-Pony Town stuff I plan to take note XD
+Pony Town stuff I plan to take note
 
 <div align="center">
 
